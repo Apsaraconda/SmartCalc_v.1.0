@@ -1,3 +1,8 @@
+# SmartCalc_v.1.0
+
+SmartCalc is an ingeneer calculator app.
+
+## Basic properties:
 - Both integers and real numbers with a dot can be input into the program.
 - Calculating arbitrary bracketed arithmetic expressions in infix notation;
 - Calculate arbitrary bracketed arithmetic expressions in infix notation with substitution of the value of the variable _x_ as a number;
